@@ -18,3 +18,12 @@ install-headers
 programs/java/.classpath
 programs/java/.project
 programs/java/classes
+db/
+incremental_db/
+*.rpt
+*.done
+*.summary
+*.smsg
+*.pin
+*.sof
+*.rbf
